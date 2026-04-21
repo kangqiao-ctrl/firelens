@@ -1,0 +1,4 @@
+scripts
+examples
+artifacts/hrrr_to_ca500m_bilinear.nc
+artifacts/aorc_to_ca500m_bilinear.nc
